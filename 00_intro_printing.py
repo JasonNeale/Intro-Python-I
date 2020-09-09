@@ -64,3 +64,4 @@
 #names = ["Sarah", "jorge", "sam", "frank", "bob","sandy"]
 #s_names = [name.capitalize() for name in names if name[0].lower() == 's']
 #print(s_names)
+
